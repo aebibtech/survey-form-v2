@@ -24,7 +24,7 @@ class Controller {
 	defaultPageParams() {
 		return {
 			PAGE: {
-				title: "Project Manager",
+				title: "Project Manager Hello World",
 				view: "index",
 				assets: this.getViewAssets()
 			},
